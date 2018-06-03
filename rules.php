@@ -1,12 +1,10 @@
-<?php
-?>
 <!DOCTYPE html>
 <html>
     <head>
         <style>
 
             body {
-                background-color: #E5E7E9  ;
+                background-color: #E5E7E9;
             }
 
         </style>
