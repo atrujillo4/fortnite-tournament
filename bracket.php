@@ -2,9 +2,11 @@
 <html>
     <head>
         <style>
+
             body {
                 background-color: #E5E7E9;
             }
+
         </style>
         <meta charset="UTF-8">
         <link href="css/styles.css" rel="stylesheet" type="text/css" />
@@ -16,17 +18,20 @@
         
     </head>
     <body>
-        <!-- nav Bar --> 
         <ul>
         <li><a href="index.php">Home</a></li>
         <li><a href="teams.php">Teams</a></li>
-        <li><a href="bracket.php">Bracket</a></li>
+        <li><a class="active" href="bracket.php">Bracket</a></li>
         <li><a href="rules.php">Rules</a></li>
         <li><a href="signup.php">Sign up</a></li>
-        <li><a class="active" href="about.php">About</a></li>
+        <li><a href="about.php">About</a></li>
         </ul>
-        <br></br>
-        <center>About Page Coming Soon</center>
+        <br>
+        Tournament starts Saturday June 9th, at 6pm. 
+        <br>
+        <center>
+        <iframe src="https://challonge.com/smqkibfw/module" width="100%" height="600" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+        </center>
     </body>
     <div class="footer">
         <center>

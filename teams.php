@@ -18,6 +18,7 @@
         <ul>
         <li><a href="index.php">Home</a></li>
         <li><a class="active" href="teams.php">Teams</a></li>
+        <li><a href="bracket.php">Bracket</a></li>
         <li><a href="rules.php">Rules</a></li>
         <li><a href="signup.php">Sign up</a></li>
         <li><a href="about.php">About</a></li>
@@ -90,24 +91,24 @@
                 <td>Beretta209</td>
             </tr>
             <tr>
-                <td>Team 13</td>
-                <td>Player 1</td>
-                <td>Player 2</td>
+                <td>600</td>
+                <td>Diego</td>
+                <td>Toxic</td>
             </tr>
             <tr>
-                <td>Team 14</td>
-                <td>Player 1</td>
-                <td>Player 2</td>
+                <td>Kings</td>
+                <td>Joey O.</td>
+                <td>Anthony C.</td>
             </tr>
             <tr>
-                <td>Team 15</td>
-                <td>Player 1</td>
-                <td>Player 2</td>
+                <td>100 peace</td>
+                <td>Alexander</td>
+                <td>Ever</td>
             </tr>
             <tr>
-                <td>Team 16</td>
-                <td>Player 1</td>
-                <td>Player 2</td>
+                <td>Pablo's Carries Association</td>
+                <td>Pablo</td>
+                <td>Prince</td>
             </tr>
             
         </table>

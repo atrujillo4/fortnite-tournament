@@ -16,6 +16,7 @@
         <ul>
         <li><a class="active" href="index.php">Home</a></li>
         <li><a href="teams.php">Teams</a></li>
+        <li><a href="bracket.php">Bracket</a></li>
         <li><a href="rules.php">Rules</a></li>
         <li><a href="signup.php">Sign up</a></li>
         <li><a href="about.php">About</a></li>

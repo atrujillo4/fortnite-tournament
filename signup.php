@@ -19,13 +19,15 @@
         <ul>
         <li><a href="index.php">Home</a></li>
         <li><a href="teams.php">Teams</a></li>
+        <li><a href="bracket.php">Bracket</a></li>
         <li><a href="rules.php">Rules</a></li>
         <li><a class="active" href="signup.php">Sign up</a></li>
         <li><a href="about.php">About</a></li>
         </ul>
         <br></br>
+        <center>Tournament is Full. </center>
+        <!-- <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScyuwMdYw3WVCwFki3NW1gP86UFRjaEtjRewC-mTWFKnc6kdQ/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></center> -->
         
-        <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScyuwMdYw3WVCwFki3NW1gP86UFRjaEtjRewC-mTWFKnc6kdQ/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></center>
     </body>
     <div class="footer">
         <center>
