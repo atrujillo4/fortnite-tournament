@@ -1,16 +1,16 @@
 <?php
 function getDatabaseConnection() {
     // for c9
-    $host = "localhost";
-    $username = "Adrian";
-    $password = "wsn4life";
-    $dbname = "fortnite";
+    // $host = "localhost";
+    // $username = "Adrian";
+    // $password = "wsn4life";
+    // $dbname = "fortnite";
     
     // for heroku
-    // $host = "us-cdbr-iron-east-05.cleardb.net";
-    // $username = "b26dde437507d2";
-    // $password = "2f51c9d0";
-    // $dbname = "heroku_c89fb504cd3a0f0";
+    $host = "us-cdbr-iron-east-05.cleardb.net";
+    $username = "b26dde437507d2";
+    $password = "2f51c9d0";
+    $dbname = "heroku_c89fb504cd3a0f0";
     
     //mysql://b26dde437507d2:2f51c9d0@us-cdbr-iron-east-05.cleardb.net/heroku_c89fb504cd3a0f0?reconnect=true
     // Create connection
