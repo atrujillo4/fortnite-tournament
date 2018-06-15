@@ -34,12 +34,12 @@
             Youtube URL link: <input type="text" name="video"><br>
             <input type="submit" value="Submit">
         </form>
-        <iframe width="420" height="315"
-            src="https://www.youtube.com/embed/tgbNymZ7vqY">
-        </iframe>
-        <iframe width="420" height="315"
-            src="https://www.youtube.com/embed/gxoaLgCETgE">
-        </iframe>
+        <!--<iframe width="420" height="315"-->
+        <!--    src="https://www.youtube.com/embed/tgbNymZ7vqY">-->
+        <!--</iframe>-->
+        <!--<iframe width="420" height="315"-->
+        <!--    src="https://www.youtube.com/embed/gxoaLgCETgE">-->
+        <!--</iframe>-->
         <?php
             getItems();
         ?>

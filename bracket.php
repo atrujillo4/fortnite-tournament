@@ -38,7 +38,7 @@
         If this is the case, some teams will have a first round bye. This will be chosen by random.
         <br>
         <center>
-        <iframe src="https://challonge.com/bzljmhj8/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+            <iframe src="https://challonge.com/bzljmhj8/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
         <!--Tournament One <iframe src="https://challonge.com/smqkibfw/module" width="100%" height="600" frameborder="0" scrolling="auto" allowtransparency="true"></iframe> -->
         </center>
     </body>
