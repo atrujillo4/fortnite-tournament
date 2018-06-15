@@ -19,11 +19,13 @@
         <li><a href="index.php">Home</a></li>
         <li><a class="active" href="teams.php">Teams</a></li>
         <li><a href="bracket.php">Bracket</a></li>
+        <li><a href="winners.php">Previous Winners</a></li>
         <li><a href="rules.php">Rules</a></li>
         <li><a href="signup.php">Sign up</a></li>
         <li><a href="about.php">About</a></li>
+        <li><a href="highlights.php">Highlights</a></li>
         </ul>
-        <br></br>
+        <br>Teams from the first tournament.</br>
         <table>
             <tr>
                 <th>Team Name</th>

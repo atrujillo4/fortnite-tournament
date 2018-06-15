@@ -22,15 +22,24 @@
         <li><a href="index.php">Home</a></li>
         <li><a href="teams.php">Teams</a></li>
         <li><a class="active" href="bracket.php">Bracket</a></li>
+        <li><a href="winners.php">Previous Winners</a></li>
         <li><a href="rules.php">Rules</a></li>
         <li><a href="signup.php">Sign up</a></li>
         <li><a href="about.php">About</a></li>
+        <li><a href="highlights.php">Highlights</a></li>
         </ul>
         <br>
-        Tournament starts Saturday June 9th, at 6pm. 
+        Tournament starts Saturday June 16th, at 7pm.
+        <br>
+        Bracket will be created once 16 teams have signed up.
+        <br>
+        If 16 teams are not signed up by June 16th at 5pm, a random bracket will be created using the teams that have signed up.
+        <br>
+        If this is the case, some teams will have a first round bye. This will be chosen by random.
         <br>
         <center>
-        <iframe src="https://challonge.com/smqkibfw/module" width="100%" height="600" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+        <iframe src="https://challonge.com/bzljmhj8/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+        <!--Tournament One <iframe src="https://challonge.com/smqkibfw/module" width="100%" height="600" frameborder="0" scrolling="auto" allowtransparency="true"></iframe> -->
         </center>
     </body>
     <div class="footer">
